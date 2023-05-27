@@ -5,8 +5,6 @@ package gildedrose;
 
 import org.junit.jupiter.api.Test;
 
-import gildedrose.App;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 class AppTest {
